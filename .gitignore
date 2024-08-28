@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Environment variables
+.env
+
+# Optional: Mac OS system files
+.DS_Store
+
+# Optional: Logs
+*.log
+
+# Optional: Build output
+build/
+dist/
+
+# Optional: IDE-specific files
+.vscode/
+.idea/
